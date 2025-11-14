@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Circle of Fifths Explorer",
+  "description": "An interactive and educational tool for music students to explore key signatures, diatonic chords, and musical modes through the Circle of Fifths.",
+  "requestFramePermissions": []
+}
